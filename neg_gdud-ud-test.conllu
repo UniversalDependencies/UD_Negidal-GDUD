@@ -39,7 +39,7 @@
 1	moː	moː	NOUN	_	_	2	nmod:poss	_	_
 2	niŋtə-nin	niŋtə	NOUN	_	Number=Sing|Person=3	4	nsubj	_	_
 3	ɟukə-dukkəj	ɟukə	NOUN	_	Case=Abl	4	obl	_	_
-4	ju-ʨe-ja-n	ju	VERB	_	Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
+4	ju-ʨe-ja-n	ju	VERB	_	Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 
 # sent_id = negidal_grammar_7
 # text = i-dukin da baka-ŋaːti-s taj lam ʧolo-βa-n
@@ -55,47 +55,47 @@
 # text = samoxodka-β iltən-ə-n aːʨin
 # text[eng] = The steamer (lit. my steamer) passed and disappeared.
 1	samoxodka-β	samoxodka	NOUN	_	Number=Sing|Person=1	2	nsubj	_	_
-2	iltən-ə-n	iltən	VERB	_	Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	iltən-ə-n	iltən	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	aːʨin	aːʨin	PART	_	Polarity=Neg	2	advmod	_	_
 
 # sent_id = negidal_grammar_9
 # text = uli-l-laːn gun-ə-n kilgədgə-jə-n inma-β
 # text[eng] = As soon as I started to sew, the needle (lit. my needle) broke.
 1	uli-l-laːn	uli	VERB	_	VerbForm=Conv	4	advcl	_	Aspect=Inch
-2	gun-ə-n	gun	VERB	_	Number=Sing|Person=1|VerbForm=Fin	1	advcl	_	_
+2	gun-ə-n	gun	VERB	_	Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	1	advcl	_	_
 3	kilgədgə-jə-n	kilgədgə	NOUN	_	Number=Sing|Person=1	4	nsubj	_	_
-4	inma-β	inma	VERB	_	Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	inma-β	inma	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 
 # sent_id = negidal_grammar_10
 # text = tiːnu min-dula əmə-jə-n okin-mi
 # text[eng] = My older sister came to me yesterday.
 1	tiːnu	tiːnu	ADV	_	_	3	advmod	_	AdvType=Tim
-2	min-dula	min	PRON	_	Case=Loc|Number=Sing|Person=1	3	obl	_	_
-3	əmə-jə-n	əmə	VERB	_	Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	min-dula	min	PRON	_	Case=Loc|Number=Sing|Person=1|PronType=Prs	3	obl	_	_
+3	əmə-jə-n	əmə	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	okin-mi	okin	NOUN	_	Number=Sing|Person=1	3	nsubj	_	_
 
 # sent_id = negidal_grammar_11
 # text = biː si dəl-βə-s honŋa-sin-ʧiŋa-β bosaːkta-βə-s talaka-ʧiŋa-β gun-ə-n haːkin-mə-s juː-β-ʧiŋa-β
 # text[eng] = I will chop off your head, I will chop your kidneys finely and eat them, I will take out your liver.
-1	biː	biː	PRON	_	Number=Sing|Person=1	4	nsubj	_	_
-2	si	si	PRON	_	Number=Sing|Person=2	3	nmod:poss	_	_
+1	biː	biː	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
+2	si	si	PRON	_	Number=Sing|Person=2|PronType=Prs	3	nmod:poss	_	_
 3	dəl-βə-s	dəl	NOUN	_	Case=Acc|Number=Sing|Person=2	4	obj	_	_
-4	honŋa-sin-ʧiŋa-β	honŋa	VERB	_	Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+4	honŋa-sin-ʧiŋa-β	honŋa	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
 5	bosaːkta-βə-s	bosaːkta	NOUN	_	Case=Acc|Number=Sing|Person=2	6	obj	_	_
-6	talaka-ʧiŋa-β	talaka	VERB	_	Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	4	conj	_	_
-7	gun-ə-n	gun	VERB	_	Number=Sing|Person=1|VerbForm=Fin	6	conj	_	_
+6	talaka-ʧiŋa-β	talaka	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	4	conj	_	_
+7	gun-ə-n	gun	VERB	_	Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	6	conj	_	_
 8	haːkin-mə-s	haːkin	NOUN	_	Case=Acc|Number=Sing|Person=2	9	obj	_	_
-9	juː-β-ʧiŋa-β	juː	VERB	_	Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	4	conj	_	_
+9	juː-β-ʧiŋa-β	juː	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	4	conj	_	_
 
 # sent_id = negidal_grammar_12
 # text = bu akina-ʨil ʧuː-ji taj amban-ʧi kusi-ʧa-βun
 # text[eng] = We, my brother and I, will fight with that devil the two of us.
-1	bu	bu	PRON	_	Clusivity=Ex|Number=Plur|Person=1	6	nsubj	_	_
+1	bu	bu	PRON	_	Clusivity=Ex|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	_
 2	akina-ʨil	akina	NOUN	_	Case=Com	1	appos	_	_
-3	ʧuː-ji	ʧuː	NUM	_	Number=Coll|NumType=Card	1	appos	_	_
+3	ʧuː-ji	ʧuː	NUM	_	NumType=Card|Number=Coll	1	appos	_	_
 4	taj	taj	DET	_	PronType=Dem	5	det	_	_
 5	amban-ʧi	amban	NOUN	_	Case=Ins	6	obl	_	_
-6	kusi-ʧa-βun	kusi	VERB	_	Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
+6	kusi-ʧa-βun	kusi	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
 
 # sent_id = negidal_grammar_13
 # text = siŋəjə gun-mi oʁaːβi gun-ŋati-s ʧoː bəjŋaː-nin
@@ -122,12 +122,12 @@
 # text[eng] = They had attached one half of the nose, as they were attaching the other half, suddenly the wind started to blow.
 1	kaltaka	kaltaka	NOUN	_	_	2	nmod:poss	_	_
 2	onʧokto-ŋ-ŋaj	onʧokto	NOUN	_	Number=Plur|Person=3	3	obj	_	_
-3	tulə-ʨa	tulə	VERB	_	Tense=Past|VerbForm=Fin	0	root	_	_
+3	tulə-ʨa	tulə	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 4	kaltaka-ŋ-ŋaj	kaltaka	NOUN	_	Number=Plur|Person=3	5	obj	_	_
 5	tulə-ji-du-tin	tulə	VERB	_	Case=Dat|Number=Plur|Person=3|Tense=Pres|VerbForm=Part	3	advcl	_	_
 6	ərroj	ərroj	INTJ	_	_	8	discourse	_	_
 7	umnat	umnat	NOUN	_	_	8	nsubj	_	_
-8	adi-l-ʨa	adi	VERB	_	Tense=Past|VerbForm=Fin	3	conj	_	Aspect=Inch
+8	adi-l-ʨa	adi	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	3	conj	_	Aspect=Inch
 
 # sent_id = negidal_grammar_16
 # text = hul-mi hul-mi ʧaʁa-βa βaː-ʨa taji-ŋ-ŋi βaː-jaːn naː-ʨa lodka-j onʧokto-du-n
@@ -135,10 +135,10 @@
 1	hul-mi	hul	VERB	_	VerbForm=Conv	4	advcl	_	_
 2	hul-mi	hul	VERB	_	VerbForm=Conv	4	advcl	_	_
 3	ʧaʁa-βa	ʧaʁa	NOUN	_	Case=Acc	4	obj	_	_
-4	βaː-ʨa	βaː	VERB	_	Tense=Past|VerbForm=Fin	0	root	_	_
+4	βaː-ʨa	βaː	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 5	taji-ŋ-ŋi	taji	NOUN	_	Number=Sing|Person=3	6	obj	_	_
 6	βaː-jaːn	βaː	VERB	_	VerbForm=Conv	7	advcl	_	_
-7	naː-ʨa	naː	VERB	_	Tense=Past|VerbForm=Fin	4	conj	_	_
+7	naː-ʨa	naː	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	4	conj	_	_
 8	lodka-j	lodka	NOUN	_	Number=Sing|Person=3	9	nmod:poss	_	_
 9	onʧokto-du-n	onʧokto	NOUN	_	Case=Dat|Number=Sing|Person=3	7	obl	_	_
 
@@ -149,7 +149,7 @@
 2	oj	oj	DET	_	PronType=Dem	3	det	_	_
 3	bəjə-ŋi-t	bəjə	NOUN	_	Number=Plur|Person=1	5	nsubj	_	_
 4	samaːn=mal	samaːn	NOUN	_	Definite=Ind	5	xcomp	_	_
-5	bi-ʧiŋa-n	bi	VERB	_	Person=3|Tense=Fut|VerbForm=Fin	6	ccomp	_	_
+5	bi-ʧiŋa-n	bi	VERB	_	Mood=Ind|Person=3|Tense=Fut|VerbForm=Fin	6	ccomp	_	_
 6	gun-ə	gun	VERB	_	Number=Plur|Person=3|Tense=Pres	0	root	_	_
 
 # sent_id = negidal_grammar_18
@@ -166,7 +166,7 @@
 2	ŋənə-ja-βun	ŋənə	VERB	_	Number=Plur|Person=1|Tense=Pres	5	advcl	_	_
 3	ŋənə-ja-βun	ŋənə	VERB	_	Number=Plur|Person=1|Tense=Pres	5	advcl	_	_
 4	siβu-ŋi-βun	siβu	NOUN	_	Number=Plur|Person=1	5	nsubj	_	_
-5	tik-ʨa	tik	VERB	_	Tense=Past|VerbForm=Fin	0	root	_	_
+5	tik-ʨa	tik	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 
 # sent_id = negidal_grammar_20
 # text = i vova-ŋi-β ʧo-tki-j əmə-jaːn taja-βa ves ulgutʁaːn-a-n
@@ -175,7 +175,7 @@
 2	vova-ŋi-β	vova	PROPN	_	Number=Sing	6	nsubj	_	PossOrig=1
 3	ʧo-tki-j	ʧo	NOUN	_	Case=All	4	obl	_	_
 4	əmə-jaːn	əmə	VERB	_	VerbForm=Conv	6	advcl	_	_
-5	taja-βa	taja	PRON	_	Case=Acc	6	obj	_	_
+5	taja-βa	taja	PRON	_	Case=Acc|PronType=Dem	6	obj	_	_
 6	ves	ves	DET	_	PronType=Tot	7	obj	_	_
 7	ulgutʁaːn-a-n	ulgutʁaːn	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	_
 
@@ -235,7 +235,7 @@
 # sent_id = negidal_grammar_29
 # text = min-du bi-ʨa-n ɲuŋun anŋani-ŋi-β
 # text[eng] = I was six years old.
-1	min-du	min	PRON	_	Case=Dat	2	obl	_	_
+1	min-du	min	PRON	_	Case=Dat|PronType=Prs	2	obl	_	_
 2	bi-ʨa-n	bi	VERB	_	Number=Sing|Person=3|Tense=Past	0	root	_	_
 3	ɲuŋun	ɲuŋun	NUM	_	NumType=Card	4	nummod	_	_
 4	anŋani-ŋi-β	anŋani	NOUN	_	Number=Sing	2	xcomp	_	PossOrig=1
@@ -243,7 +243,7 @@
 # sent_id = negidal_grammar_30
 # text = omoŋ-ŋi-βun dəlbəni-ʧiʁa-βa aja-t ə ʨa aʐ-ja uŋum-mi
 # text[eng] = One of us did not sleep well all night, freezing.
-1	omoŋ-ŋi-βun	omoŋ	PRON	_	Number=Plur	7	nsubj	_	PossOrig=1
+1	omoŋ-ŋi-βun	omoŋ	PRON	_	Number=Plur|PronType=Ind	7	nsubj	_	PossOrig=1
 2	dəlbəni-ʧiʁa-βa	dəlbəni	NOUN	_	Case=Acc	7	obl	_	_
 3	aja-t	aja	ADV	_	_	7	advmod	_	_
 4	ə	ə	PART	_	Polarity=Neg	7	advmod	_	_
@@ -254,7 +254,7 @@
 # sent_id = negidal_grammar_31
 # text = taji=gda ton-ŋi-tin dolin-du təgə-t-ʨa bəjə-l-βa itʧe-je-n
 # text[eng] = That one, the fifth that sat in the middle, saw the men.
-1	taji=gda	taji	PRON	_	_	6	nsubj	_	Contrast=Yes
+1	taji=gda	taji	PRON	_	PronType=Dem	6	nsubj	_	Contrast=Yes
 2	ton-ŋi-tin	ton	NUM	_	Number=Plur	1	appos	_	PossOrig=3
 3	dolin-du	dolin	NOUN	_	_	4	obl	_	Case=DatEss
 4	təgə-t-ʨa	təgə	VERB	_	Tense=Past|VerbForm=Part	2	acl	_	_
@@ -264,17 +264,17 @@
 # sent_id = negidal_grammar_32
 # text = taji-ŋ-ŋi kaβsa-ja-n bogdi-j
 # text[eng] = He bandaged all this, his foot.
-1	taji-ŋ-ŋi	taji	PRON	_	Number=Sing	2	obj	_	PossOrig=3
+1	taji-ŋ-ŋi	taji	PRON	_	Number=Sing|PronType=Dem	2	obj	_	PossOrig=3
 2	kaβsa-ja-n	kaβsa	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	_
 3	bogdi-j	bogdi	NOUN	_	Number=Sing	1	appos	_	PossOrig=3
 
 # sent_id = negidal_grammar_33
 # text = taji-ŋi-βun ali-l-laːn gun-ə-n ja=ka otkuda gun-ə-n nemec-duk priexal li
 # text[eng] = He got angry and said: “So where do I come from,” he said, “from the Germans, or what?”
-1	taji-ŋi-βun	taji	PRON	_	Number=Plur	3	nsubj	_	PossOrig=1
+1	taji-ŋi-βun	taji	PRON	_	Number=Plur|PronType=Dem	3	nsubj	_	PossOrig=1
 2	ali-l-laːn	ali	VERB	_	VerbForm=Conv	3	advcl	_	_
 3	gun-ə-n	gun	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	_
-4	ja=ka	ja	PRON	_	_	6	nsubj	_	Focus=Yes
+4	ja=ka	ja	PRON	_	PronType=Int	6	nsubj	_	Focus=Yes
 5	otkuda	otkuda	ADV	_	_	6	advmod	_	_
 6	gun-ə-n	gun	VERB	_	Number=Sing|Person=3|Tense=Pres	3	parataxis	_	_
 7	nemec-duk	nemec	NOUN	_	Case=Abl	8	obl	_	_
@@ -286,28 +286,28 @@
 # text[eng] = She doesn’t sew the lining herself, she doesn’t see, I sew that.
 1	nuptin-ma-n	nuptin	NOUN	_	Case=Acc	4	obj	_	PossOrig=3
 2	o-si-n	o	AUX	_	Number=Sing|Person=3|Polarity=Neg|Tense=Pres	4	aux	_	_
-3	man	man	PRON	_	Reflex=Yes	4	obl	_	_
+3	man	man	PRON	_	PronType=Prs|Reflex=Yes	4	obl	_	_
 4	uli-jə	uli	VERB	_	Polarity=Neg|VerbForm=Conv	0	root	_	_
 5	o-si-n	o	AUX	_	Number=Sing|Person=3|Polarity=Neg|Tense=Pres	7	aux	_	_
 6	itʧe-je	itʧe	VERB	_	Polarity=Neg|VerbForm=Conv	4	conj	_	_
-7	bi	bi	PRON	_	Number=Sing|Person=1	9	nsubj	_	_
-8	taji-ŋ-ŋa-n	taji	PRON	_	Case=Acc	9	obj	_	PossOrig=3
+7	bi	bi	PRON	_	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
+8	taji-ŋ-ŋa-n	taji	PRON	_	Case=Acc|PronType=Dem	9	obj	_	PossOrig=3
 9	uli-m	uli	VERB	_	Number=Sing|Person=1|Tense=Pres	4	conj	_	_
 
 # sent_id = negidal_grammar_35
 # text = uː-li-dgi-s oji-ŋi-nen oː-ŋati-nin poʧti əj-gaʨin
 # text[eng] = You again start to scrape, so that this side becomes nearly like this.
 1	uː-li-dgi-s	uː	VERB	_	Number=Sing|Person=2	0	root	_	Aspect=Inch|Mood=Rep
-2	oji-ŋi-nen	oji	PRON	_	_	3	obl	_	PossOrig=3|Case=Prol
+2	oji-ŋi-nen	oji	PRON	_	PronType=Dem	3	obl	_	PossOrig=3|Case=Prol
 3	oː-ŋati-nin	oː	VERB	_	Number=Sing|Person=3	1	advcl	_	Mood=Deont
 4	poʧti	poʧti	ADV	_	_	3	advmod	_	_
-5	əj-gaʨin	əj	PRON	_	_	3	obl	_	Degree=Simil
+5	əj-gaʨin	əj	PRON	_	PronType=Dem	3	obl	_	Degree=Simil
 
 # sent_id = negidal_grammar_36
 # text = oji-m oji-ŋ-duli-n ʧaβa-ja-n del-duli-n
 # text[eng] = My mother grabbed it by this, by its head.
 1	oji-m	oji	NOUN	_	_	3	nsubj	_	PossOrig=1
-2	oji-ŋ-duli-n	oji	PRON	_	_	3	obl	_	PossOrig=3|Case=Prol
+2	oji-ŋ-duli-n	oji	PRON	_	PronType=Dem	3	obl	_	PossOrig=3|Case=Prol
 3	ʧaβa-ja-n	ʧaβa	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	_
 4	del-duli-n	del	NOUN	_	_	3	obl	_	PossOrig=3|Case=Prol
 
@@ -320,7 +320,7 @@
 4	bitʁa	bitʁa	PART	_	_	8	discourse	_	_
 5	uŋun	uŋun	PART	_	_	8	discourse	_	_
 6	keruken-ŋ-ŋi	keruken	NOUN	_	_	8	obj	_	PossOrig=3
-7	mani-n	mani	PRON	_	Person=3|Reflex=Yes	8	obl	_	_
+7	mani-n	mani	PRON	_	Person=3|PronType=Prs|Reflex=Yes	8	obl	_	_
 8	ʧep-pa-n	ʧep	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	_
 9	uŋun-mi	uŋun	PART	_	_	8	parataxis	_	_
 10	iː-ʨa-ŋ-ŋi	iː	VERB	_	Tense=Past|VerbForm=Part	8	parataxis	_	PossOrig=3
@@ -376,7 +376,7 @@
 2	əmən	əmən	NUM	_	_	3	nummod	_	_
 3	dəl-βa-n	dəl	NOUN	_	Case=Acc	4	obj	_	PossOrig=3
 4	təʨka-ja	təʨka	VERB	_	Number=Plur|Person=3|Tense=Pres	0	root	_	_
-5	taj	taj	DET	_	Deixis=Remt	6	det	_	_
+5	taj	taj	DET	_	Deixis=Remt|PronType=Dem	6	det	_	_
 6	amban-ŋi-βa	amban	NOUN	_	Case=Acc	3	nmod:poss	_	PossOrig=3
 
 # sent_id = negidal_grammar_45
@@ -390,7 +390,7 @@
 # sent_id = negidal_grammar_46
 # text = miː naj-ŋgo-i
 # text[eng] = my human
-1	miː	miː	PRON	_	Number=Sing|Person=1	2	nmod:poss	_	_
+1	miː	miː	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nmod:poss	_	_
 2	naj-ŋgo-i	naj	NOUN	_	_	0	root	_	PossOrig=1
 
 # sent_id = negidal_grammar_47
@@ -468,7 +468,7 @@
 1	Ətikāŋi-nin	ətikāŋi	NOUN	_	Person=3	3	nsubj	_	Gloss=husband-3Sg
 2	āčin	āčin	ADP	_	_	3	case	_	Gloss=without
 3	ō-ča-la-n	ō	VERB	_	Case=Loc|Person=3|Tense=Past|VerbForm=Part	7	advcl	_	Gloss=become-PartPraet-Loc-3Sg
-4	noŋan-mā-n	noŋan	PRON	_	Case=Acc|Person=3	7	obj	_	Gloss=he-Acc-3Sg
+4	noŋan-mā-n	noŋan	PRON	_	Case=Acc|Person=3|PronType=Prs	7	obj	_	Gloss=he-Acc-3Sg
 5	nəkun-in	nəkun	NOUN	_	Person=3	7	nsubj	_	Gloss=younger.brother-3Sg
 6	gəla-l-čā	gəla	VERB	_	Tense=Past	7	reparandum	_	Gloss=ask-Inch-Praet|Aspect=Inch
 7	gəla-l-čā	gəla	VERB	_	Tense=Past	0	root	_	Gloss=ask-Praet
@@ -480,7 +480,7 @@
 2	:	:	PUNCT	_	_	1	punct	_	_
 3	«	«	PUNCT	_	_	1	punct	_	_
 4	Ətikāŋla-kal	ətikāŋla	VERB	_	Mood=Imp	1	parataxis	_	Gloss=get.married-Imp
-5	min-dū	min	PRON	_	Case=Dat|Person=1	4	obl	_	Gloss=I-Dat
+5	min-dū	min	PRON	_	Case=Dat|Person=1|PronType=Prs	4	obl	_	Gloss=I-Dat
 6	»	»	PUNCT	_	_	1	punct	_	SpaceAfter=No
 7	.	.	PUNCT	_	_	1	punct	_	_
 
@@ -522,7 +522,7 @@
 1	Nuŋən	nuŋən	ADV	_	_	3	advmod	_	Gloss=in
 2	window-lī	window	NOUN	_	_	3	obl	_	Gloss=window-Prol|Case=Prol
 3	ičə-jə-n	ičə	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	Gloss=see-Pres-3Sg
-4	taj	taj	DET	_	_	5	det	_	Gloss=that
+4	taj	taj	DET	_	PronType=Dem	5	det	_	Gloss=that
 5	commissioner	commissioner	NOUN	_	_	3	obj	_	Gloss=commissioner
 6	əmə-je-va-n	əmə	VERB	_	Case=Acc|Person=3|Tense=Past|VerbForm=Part	5	acl	_	SpaceAfter=No|Gloss=come-PartPraet-Acc-3Sg
 7	.	.	PUNCT	_	_	3	punct	_	_
