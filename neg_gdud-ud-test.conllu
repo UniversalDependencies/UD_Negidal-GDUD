@@ -396,7 +396,7 @@
 # sent_id = negidal_grammar_47
 # text = miː eŋgur-ŋgu-i
 # text[eng] = my wolf
-1	miː	miː	 ADV	_	Number=Sing|Person=1	2	nmod:poss	_	_
+1	miː	miː	ADV	_	Number=Sing|Person=1	2	nmod:poss	_	_
 2	eŋgur-ŋgu-i	eŋgur	NOUN	_	_	0	root	_	PossOrig=1
 
 # sent_id = negidal_grammar_48
