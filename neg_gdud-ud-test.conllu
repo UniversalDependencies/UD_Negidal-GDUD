@@ -44,7 +44,7 @@
 # sent_id = negidal_grammar_7
 # text = i-dukin da baka-ŋaːti-s taj lam ʧolo-βa-n
 # text[eng] = … where can one find a stone from the sea (lit. ‘sea stone’)?
-1	i-dukin	i	ADV	_	Case=Abl|PronType=Int	3	advmod	_	_
+1	i-dukin	i	PRON	_	Case=Abl|PronType=Int	3	obl	_	_
 2	da	da	PART	_	_	3	discourse	_	PartType=Add
 3	baka-ŋaːti-s	baka	VERB	_	Mood=Nec|VerbForm=Fin	0	root	_	_
 4	taj	taj	DET	_	PronType=Dem	6	amod	_	_
