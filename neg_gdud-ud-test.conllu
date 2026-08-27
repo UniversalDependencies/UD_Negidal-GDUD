@@ -44,7 +44,7 @@
 # sent_id = negidal_grammar_7
 # text = i-dukin da baka-ŋaːti-s taj lam ʧolo-βa-n
 # text[eng] = … where can one find a stone from the sea (lit. ‘sea stone’)?
-1	i-dukin	i	PRON	_	Case=Abl|PronType=Int	3	advmod	_	_
+1	i-dukin	i	ADV	_	Case=Abl|PronType=Int	3	advmod	_	_
 2	da	da	PART	_	_	3	discourse	_	PartType=Add
 3	baka-ŋaːti-s	baka	VERB	_	Mood=Nec|VerbForm=Fin	0	root	_	_
 4	taj	taj	DET	_	PronType=Dem	6	amod	_	_
@@ -255,7 +255,7 @@
 # text = taji=gda ton-ŋi-tin dolin-du təgə-t-ʨa bəjə-l-βa itʧe-je-n
 # text[eng] = That one, the fifth that sat in the middle, saw the men.
 1	taji=gda	taji	PRON	_	_	6	nsubj	_	Contrast=Yes
-2	ton-ŋi-tin	ton	NUM	_	Number=Plur	6	appos	_	PossOrig=3
+2	ton-ŋi-tin	ton	NUM	_	Number=Plur	1	appos	_	PossOrig=3
 3	dolin-du	dolin	NOUN	_	_	4	obl	_	Case=DatEss
 4	təgə-t-ʨa	təgə	VERB	_	Tense=Past|VerbForm=Part	2	acl	_	_
 5	bəjə-l-βa	bəjə	NOUN	_	Case=Acc|Number=Plur	6	obj	_	_
@@ -266,7 +266,7 @@
 # text[eng] = He bandaged all this, his foot.
 1	taji-ŋ-ŋi	taji	PRON	_	Number=Sing	2	obj	_	PossOrig=3
 2	kaβsa-ja-n	kaβsa	VERB	_	Number=Sing|Person=3|Tense=Pres	0	root	_	_
-3	bogdi-j	bogdi	NOUN	_	Number=Sing	2	obj	_	PossOrig=3
+3	bogdi-j	bogdi	NOUN	_	Number=Sing	1	appos	_	PossOrig=3
 
 # sent_id = negidal_grammar_33
 # text = taji-ŋi-βun ali-l-laːn gun-ə-n ja=ka otkuda gun-ə-n nemec-duk priexal li
@@ -396,7 +396,7 @@
 # sent_id = negidal_grammar_47
 # text = miː eŋgur-ŋgu-i
 # text[eng] = my wolf
-1	miː	miː	PRON	_	Number=Sing|Person=1	2	nmod:poss	_	_
+1	miː	miː	 ADV	_	Number=Sing|Person=1	2	nmod:poss	_	_
 2	eŋgur-ŋgu-i	eŋgur	NOUN	_	_	0	root	_	PossOrig=1
 
 # sent_id = negidal_grammar_48
@@ -447,7 +447,7 @@
 # text = Taj Čukčagir boγa-dū-n bi-čā-n omən asī.
 # text[eng] = In Chukchagir one woman lived.
 1	Taj	Taj	ADV	_	_	2	advmod	_	Gloss=that
-2	Čukčagir	Čukčagir	PROPN	_	_	3	obl	_	Gloss=Chukchagir
+2	Čukčagir	Čukčagir	PROPN	_	_	3	nmod	_	Gloss=Chukchagir
 3	boγa-dū-n	boγa	NOUN	_	Case=Dat|Person=3	4	obl	_	Gloss=land-Dat-3Sg
 4	bi-čā-n	bi	VERB	_	Number=Sing|Person=3|Tense=Past	0	root	_	Gloss=be-Praet-3Sg
 5	omən	omən	NUM	_	_	6	nummod	_	Gloss=one
@@ -470,7 +470,7 @@
 3	ō-ča-la-n	ō	VERB	_	Case=Loc|Person=3|Tense=Past|VerbForm=Part	7	advcl	_	Gloss=become-PartPraet-Loc-3Sg
 4	noŋan-mā-n	noŋan	PRON	_	Case=Acc|Person=3	7	obj	_	Gloss=he-Acc-3Sg
 5	nəkun-in	nəkun	NOUN	_	Person=3	7	nsubj	_	Gloss=younger.brother-3Sg
-6	gəla-l-čā	gəla	VERB	_	Tense=Past	7	aux	_	Gloss=ask-Inch-Praet|Aspect=Inch
+6	gəla-l-čā	gəla	AUX	_	Tense=Past	7	aux	_	Gloss=ask-Inch-Praet|Aspect=Inch
 7	gəla-l-čā	gəla	VERB	_	Tense=Past	0	root	_	Gloss=ask-Praet
 
 # sent_id = negidal_grammar_58
@@ -498,7 +498,7 @@
 # text = Omna kolkhoz-to war bi-ŋase-n, kolkhoz-to bi-vač-če-n al the commissioner.
 # text[eng] = Once in the kolkhoz, after the war, a commissioner was visiting the kolkhoz all the time.
 1	Omna	Omna	ADV	_	_	6	advmod	_	Gloss=once
-2	kolkhoz-to	kolkhoz	NOUN	_	Case=Dat	6	obl	_	Gloss=kolkhoz-Dat
+2	kolkhoz-to	kolkhoz	NOUN	_	Case=Dat	6	nmod	_	Gloss=kolkhoz-Dat
 3	war	war	NOUN	_	_	4	obl	_	Gloss=war
 4	bi-ŋase-n	bi	VERB	_	Person=3|Tense=Past|VerbForm=Conv	6	advcl	_	SpaceAfter=No|Gloss=be-ConvPraet-3Sg
 5	,	,	PUNCT	_	_	6	punct	_	_
