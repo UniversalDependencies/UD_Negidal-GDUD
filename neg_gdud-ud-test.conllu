@@ -396,7 +396,7 @@
 # sent_id = negidal_grammar_47
 # text = miː eŋgur-ŋgu-i
 # text[eng] = my wolf
-1	miː	miː	ADV	_	Number=Sing|Person=1	2	nmod:poss	_	_
+1	miː	miː	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nmod:poss	_	_
 2	eŋgur-ŋgu-i	eŋgur	NOUN	_	_	0	root	_	PossOrig=1
 
 # sent_id = negidal_grammar_48
@@ -470,7 +470,7 @@
 3	ō-ča-la-n	ō	VERB	_	Case=Loc|Person=3|Tense=Past|VerbForm=Part	7	advcl	_	Gloss=become-PartPraet-Loc-3Sg
 4	noŋan-mā-n	noŋan	PRON	_	Case=Acc|Person=3	7	obj	_	Gloss=he-Acc-3Sg
 5	nəkun-in	nəkun	NOUN	_	Person=3	7	nsubj	_	Gloss=younger.brother-3Sg
-6	gəla-l-čā	gəla	AUX	_	Tense=Past	7	aux	_	Gloss=ask-Inch-Praet|Aspect=Inch
+6	gəla-l-čā	gəla	VERB	_	Tense=Past	7	conj	_	Gloss=ask-Inch-Praet|Aspect=Inch
 7	gəla-l-čā	gəla	VERB	_	Tense=Past	0	root	_	Gloss=ask-Praet
 
 # sent_id = negidal_grammar_58
